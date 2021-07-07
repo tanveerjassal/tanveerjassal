@@ -17,5 +17,14 @@
 <div>
   <a href="https://github.com/tanveerjassal">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanveerjassal&theme=light&hide_langs_below=1" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tanveerjassal&show_icons=true&theme=gotham" alt="Tanveer Jassal | Stats" />
+
 </a>
   </div>
+<!-- <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanveerjassal&show_icons=true&theme=gotham" alt="Tanveer Jassal | Stats" />
+
+</details> -->
+![Visitor Count](https://profile-counter.glitch.me/{tanveerjassal}/count.svg)
