@@ -29,4 +29,4 @@
 </details> -->
 ![Visitor Count](https://profile-counter.glitch.me/{tanveerjassal}/count.svg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=techathena.techathena)
+![](https://visitor-badge.glitch.me/badge?page_id=tanveerjassal.tanveerjassal)
